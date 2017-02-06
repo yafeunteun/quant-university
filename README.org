@@ -1,0 +1,23 @@
+* Quant University
+
+A complete plan for studying to become a quantitative trader.
+
+
+** What is it? 
+
+This is my multi-month study plan for going from fresh graduate engineer in computer science to quantitative trader.
+
+This long list has been extracted and expanded from [[https://www.quantstart.com][Quantstart]].
+
+
+** Start Here 
+
+Read this 3 articles : 
+
+- [[https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading][Beginner's Guide to Quantitative Trading]]
+- [[https://www.quantstart.com/articles/Top-5-Essential-Beginner-Books-for-Algorithmic-Trading][Top 5 Essential Beginner Books for Algorithmic Trading]]
+- [[https://www.quantstart.com/articles/Can-Algorithmic-Traders-Still-Succeed-at-the-Retail-Level][Can Algorithmic Traders Still Succeed at the Retail Level?]]
+
+
+
+... 
